@@ -16,6 +16,7 @@ function Assignment2(){
   return <div>
     <p>This component has rendered {numberoftimesrendered.current} times</p>
     <button onClick={handler}>Click me</button>
+    <button>Hello</button>
   </div>
 }
 
